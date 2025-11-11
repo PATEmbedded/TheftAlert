@@ -40,7 +40,7 @@ python demo.py
 Run on a video file:
 
 ```bash
-python demo.py --video path/to/video.mp4 --min-area 400
+python demo.py --video path/to/video.mp4 --min-area 800
 ```
 
 Optional argument:
